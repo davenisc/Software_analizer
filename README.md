@@ -10,6 +10,8 @@ In order to use this script you must follow the following steps:
 5. choose option 1
 6. drag the file to the terminal and press enter
 
+https://www.youtube.com/watch?v=J8Iigh68RJg
+
 This script is free! automates tools such as exiftool, automater and md5sum to be able to function
 
 For questions and suggestions you can contact me at sysvd@protonmail.com or on Twitter @DaveNISC
