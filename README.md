@@ -1,9 +1,6 @@
 # Software_analizer
 With this script you can optimize your time, do a quick analysis before analyzing, with other tools that may take a little  more time to give you a result.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J8Iigh68RJg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
 In order to use this script you must follow the following steps:
 
 1. use apt-get upgrade
