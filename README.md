@@ -1,7 +1,7 @@
 # Software_analizer
 With this script you can optimize your time, do a quick analysis before analyzing, with other tools that may take a little  more time to give you a result.
 
-<a href="https://ibb.co/faHZAT"><img src="https://preview.ibb.co/dJ8wPo/Software_analizer.jpg" alt="Software_analizer" border="0"></a><br /><a target='_blank' href='https://deleteacc.com/last-fm'>can i delete my lastfm account</a><br />
+<a href="https://ibb.co/faHZAT"><img src="https://preview.ibb.co/dJ8wPo/Software_analizer.jpg" alt="Software_analizer" border="0"></a><br /><a target='_blank' href=''></a><br />
 
 In order to use this script you must follow the following steps:
 
