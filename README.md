@@ -14,14 +14,14 @@ I have integrated two of my scripts, Software analizer and RegShot Filter to obt
 
 It is recommended to use Kali Linux to use this script, since this operating system already has 98% of the tools and libraries used by Software_Analizer.py v 1.0.0 otherwise you must install the following:
 
-<<<<bookstores>>>>
+bookstores
 
 1. pip install PrettyTable
 2. pip install tqdm
 3. pip install colorama
 
 
-<<<<Tools>>>>
+Tools
 
 1. md5sum
 2. automater
@@ -32,7 +32,7 @@ To install Exiftool follow the next steps:
 
 1. Download https://www.sno.phy.queensu.ca/~phil/exiftool/index.html 
 current version V 11.03
-2. cd <your download directory>
+2. cd (your download directory)
 3. gzip -dc Image-ExifTool-11.03.tar.gz | tar -xf -
 4. cd Image-ExifTool-11.03
 5. perl Makefile.PL
