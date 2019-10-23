@@ -5,11 +5,13 @@ I have integrated two of my scripts, Software analizer and RegShot Filter to obt
 
 <a href="https://ibb.co/Dfmjsg3"><img src="https://i.ibb.co/hFrTh1p/1.jpg" alt="1" border="0"></a>
 
-<a href="https://ibb.co/dJcvH8"><img src="https://preview.ibb.co/hXFhx8/Software_analizer2.jpg" alt="Software_analizer2" border="0"></a><br /><a target='_blank' href=''></a><br />
+<a href="https://ibb.co/Xb7n214"><img src="https://i.ibb.co/bPs4WT3/2.jpg" alt="2" border="0"></a>
 
-<a href="https://ibb.co/i0sZAT"><img src="https://preview.ibb.co/hy9sx8/Software_analizer3.jpg" alt="Software_analizer3" border="0"></a><br /><a target='_blank' href=''></a><br />
+<a href="https://ibb.co/mCsHHQv"><img src="https://i.ibb.co/5WD55qY/3.jpg" alt="3" border="0"></a>
 
-<a href="https://ibb.co/cDWcVT"><img src="https://preview.ibb.co/kg2Uc8/Software_analizer4.jpg" alt="Software_analizer4" border="0"></a><br /><a target='_blank' href=''></a><br />
+<a href="https://ibb.co/r2BtC13"><img src="https://i.ibb.co/1GCnDwM/4.jpg" alt="4" border="0"></a>
+
+<a href="https://ibb.co/dthCRbt"><img src="https://i.ibb.co/jzp0SVz/5.jpg" alt="5" border="0"></a>
 
 
 It is recommended to use Kali Linux to use this script, since this operating system already has 98% of the tools and libraries used by Software_Analizer.py v 1.2.0 otherwise you must install the following:
