@@ -12,7 +12,7 @@ I have integrated two of my scripts, Software analizer and RegShot Filter to obt
 <a href="https://ibb.co/cDWcVT"><img src="https://preview.ibb.co/kg2Uc8/Software_analizer4.jpg" alt="Software_analizer4" border="0"></a><br /><a target='_blank' href=''></a><br />
 
 
-It is recommended to use Kali Linux to use this script, since this operating system already has 98% of the tools and libraries used by Software_Analizer.py v 1.0.0 otherwise you must install the following:
+It is recommended to use Kali Linux to use this script, since this operating system already has 98% of the tools and libraries used by Software_Analizer.py v 1.2.0 otherwise you must install the following:
 
 bookstores
 
@@ -26,6 +26,10 @@ Tools
 1. md5sum
 2. automater
 3. exiftool
+4. strings
+5. sha256sum
+6. sha1sum
+7. Type
 
 
 To install Exiftool follow the next steps:
@@ -46,4 +50,4 @@ https://www.youtube.com/watch?v=J8Iigh68RJg
 
 This script is free! automates tools such as exiftool, automater and md5sum to be able to function
 
-For questions and suggestions you can contact me at sysvd@protonmail.com or on Twitter @DaveNISC
+For questions and suggestions you can contact me at info@davenisc.com or on Twitter @DaveNISC
