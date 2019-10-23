@@ -3,7 +3,7 @@ With this script you can optimize your time, do a quick analysis before analyzin
 
 I have integrated two of my scripts, Software analizer and RegShot Filter to obtain more information about the analyzed software, for this I must make use of a Windows virtual machine to obtain the result of RegShot in a doc.txt, in this way Software analizer with RegShot Filter help will give the information found.
 
-<a href="https://ibb.co/faHZAT"><img src="https://preview.ibb.co/dJ8wPo/Software_analizer.jpg" alt="Software_analizer" border="0"></a><br /><a target='_blank' href=''></a><br />
+<a href="https://ibb.co/Dfmjsg3"><img src="https://i.ibb.co/hFrTh1p/1.jpg" alt="1" border="0"></a>
 
 <a href="https://ibb.co/dJcvH8"><img src="https://preview.ibb.co/hXFhx8/Software_analizer2.jpg" alt="Software_analizer2" border="0"></a><br /><a target='_blank' href=''></a><br />
 
